@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appID">70600417977</string>
+    <string name="leaderboardID">CgkIucXzgIcCEAIQAQ </string>
+    <string name="bannerAdID">ca-app-pub-7179512771551077/2108137344</string>
+    <string name="gameBannerAdID">ca-app-pub-7179512771551077/2776324949</string>
+    <string name="myDeviceID">8D4E2AE2ACD01C9420F4691E5881478F</string>
+    <string name="nexusDeviceID">45D164C6D3E9309E46B42553F9C6746B</string>
+
+    <string name="achFirstGame">CgkIucXzgIcCEAIQBA</string>
+    <string name="achSmallAddict">CgkIucXzgIcCEAIQBQ</string>
+    <string name="achOutside">CgkIucXzgIcCEAIQBg</string>
+    <string name="achFarynor">CgkIucXzgIcCEAIQBw</string>
+    <string name="achBiggie">CgkIucXzgIcCEAIQCA</string>
+</resources>

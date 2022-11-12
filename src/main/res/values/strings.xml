@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bloopy</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_error">There was an error logging in. Please try again later.</string>
+    <string name="multiplier">Close Call!</string>
+    <string name="title_activity_game">GameActivity</string>
+</resources>
